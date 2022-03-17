@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/samplereact/static/js/main.9e0b64a9.js",
+    "index.html": "/samplereact/index.html",
+    "main.9e0b64a9.js.map": "/samplereact/static/js/main.9e0b64a9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9e0b64a9.js"
+  ]
+}
